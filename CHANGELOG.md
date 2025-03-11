@@ -1,6 +1,9 @@
 # Changelog #
 Changelog du projet des **Normes Web pour les sites de l'Université Laval**
 
+## [v1.4] - 2024-07-08
+* Test
+
 ## [v1.3] - 2024-07-08
 ### Ajout de bouton de préférences
 * Ajout d'un bouton permettant de revoir le choix des préférences de la bannière de consentement.
